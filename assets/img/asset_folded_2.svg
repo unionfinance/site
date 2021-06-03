@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="168" height="328" viewBox="0 0 168 328">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rechteck_5435" data-name="Rechteck 5435" width="168" height="328" transform="translate(7740 307)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.47" y1="0.303" x2="0.72" y2="0.521" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#00a3bf"/>
+      <stop offset="1" stop-color="#00b8d8"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.69" y1="0.074" x2="0.307" y2="0.913" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#62bed8"/>
+      <stop offset="0.651" stop-color="#00b8d8"/>
+      <stop offset="1" stop-color="#0989ac"/>
+    </linearGradient>
+  </defs>
+  <g id="asset_folded_2" transform="translate(-7740 -307)" clip-path="url(#clip-path)">
+    <path id="Pfad_67211" data-name="Pfad 67211" d="M509.514,2432.418,273.68,2362.631l-294.095-294.77L112.4,2022.994Z" transform="translate(5754.609 22.925) rotate(-76)" fill="url(#linear-gradient)"/>
+    <path id="Pfad_67213" data-name="Pfad 67213" d="M867.648,2402.566l-160.878,125.3,119.182-391.928,132.833-44.861Z" transform="translate(5483.801 827.681) rotate(-76)" fill="url(#linear-gradient-2)"/>
+  </g>
+</svg>
